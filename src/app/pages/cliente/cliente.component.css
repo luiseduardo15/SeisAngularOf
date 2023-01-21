@@ -1,0 +1,42 @@
+.formulario{
+
+  width: 100%;
+  position: relative;
+  text-decoration: none;
+  background-color: #D0E1F5;
+  padding: 3% 3%;
+  border-radius: 6%;
+
+}
+
+.status h2{
+  color: #0F4284;
+  position: relative;
+}
+
+button{
+  color: white;
+  background-color: #58bb58;
+}
+
+.logo{
+  position: absolute;
+  width: 15%;
+  border-radius: 10%;
+}
+
+.lateral{
+  width: 10%;
+  background-image: url(../../../assets/pexels-norma-mortenson-4393523.jpg);
+}
+
+p{
+  font-size: 30px;
+}
+
+.oi{
+  position: absolute;
+  left: 25%;
+  top: 2%;
+  border-radius: 10%;
+}
